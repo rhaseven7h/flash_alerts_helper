@@ -1,0 +1,31 @@
+FlashAlerts
+===========
+
+Adds an easy to use helper to include flash alerts to your rails app.
+
+
+Example
+=======
+
+Add
+
+<%= flash_alerts %>
+
+In your rails app layout, and that's all, if there are messages in flash object they will
+be rendered like this:
+
+<div id='flash_message_box'>
+    <div class='flash_message' id='flash_error'>
+        Error Flash Message
+    </div>
+    <div class='flash_message' id='flash_notice'>
+        Notice Flash Message
+    </div>
+</div>
+
+So you can CSS-style it to your hearts content.
+
+Not the plugin the world was waiting for, but I found my self doing this over and over,
+I thought it would make a nice tiny plug in.
+
+Copyright (c) 2008 Gabriel Medina, released under the LGPL license
