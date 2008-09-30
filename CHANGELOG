@@ -1,0 +1,23 @@
+commit 58d5aeff70b9c54a455fea337a47236aa67f3cca
+Author: Gabriel Medina <rha7.com@gmail.com>
+Date:   Fri Sep 26 18:13:30 2008 -0600
+
+    CHG: Renamed lib/flash_alerts to be automatically included.
+
+commit fbe4f3d998c0c369b8b08f8b7da456ce005fecb4
+Author: Gabriel Medina <rha7.com@gmail.com>
+Date:   Fri Sep 26 18:07:12 2008 -0600
+
+    CHG: Added license.
+
+commit f148542fc5a623a8ac9b96ba598737b587a7423f
+Author: Gabriel Medina <rha7.com@gmail.com>
+Date:   Fri Sep 26 18:01:37 2008 -0600
+
+    NEW: Wrong license
+
+commit eb2415bd0bdcb2318bdd38f8e7b35cf009a39b3f
+Author: Gabriel Medina <rha7.com@gmail.com>
+Date:   Fri Sep 26 17:59:07 2008 -0600
+
+    NEW: Created.
