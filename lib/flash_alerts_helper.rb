@@ -5,7 +5,7 @@ module FlashAlertsHelper
 		str = String.new
 		flash.each do |key, value|
 			if value && value.strip.length > 0
-				str += %Q(<div class='flash_message' id='flash_#{key.to_s}'>#{value}</div>)
+				str += %Q(<div class='flash_message #{key.to_s}' id='flash_#{key.to_s}'>#{value}</div>)
 				display = true
 			end
 		end
